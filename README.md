@@ -10,6 +10,8 @@
 
 O Scrum é um **framework** que ajuda as equipes a trabalharem juntas. Semelhante a uma equipe de rugby (de onde vem o nome) treinando para o grande jogo, o Scrum estimula as equipes a aprenderem com as experiências, a se organizarem enquanto resolvem um problema e a refletirem sobre os êxitos e fracassos para melhorarem sempre. Objetivo, é entregar valor rápido e ter ciclos curtos de feedbacks.
 
+alouu
+
 
 
 <img  center src = https://lh4.googleusercontent.com/QX5Lb7Uzqoes4XIxdQNYTYbdP0n351UIvz31YIwNa-R75tj_Mimg9wqzEwTWXwfZZjXgr5_zjAEu6VOz1yiEbPeKHeQaOgqoxB039gCvq89xI1HpYFANJUe91wIIs08sT6YnZBAH6aN3--I>
