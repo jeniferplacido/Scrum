@@ -6,7 +6,7 @@
 
 
 
-### O que é Scrum?
+### O que é Scrum? //Alterei a linha 9 :D
 
 O Scrum é um **framework** que ajuda as equipes a trabalharem juntas. Semelhante a uma equipe de rugby (de onde vem o nome) treinando para o grande jogo, o Scrum estimula as equipes a aprenderem com as experiências, a se organizarem enquanto resolvem um problema e a refletirem sobre os êxitos e fracassos para melhorarem sempre. Objetivo, é entregar valor rápido e ter ciclos curtos de feedbacks.
 
