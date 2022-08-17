@@ -1,6 +1,7 @@
 # **Vamos falar de Scrum?**
 
 
+# Oie!
 
 ## **Missão: Falar de forma leve sobre qual a importância e o que é esperado em cada um dos ritos que praticamos.**
 
