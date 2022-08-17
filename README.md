@@ -1,4 +1,4 @@
-<center> # **Vamos falar de Scrum?** </center>
+# **Vamos falar de Scrum?**
 
 
 
@@ -12,7 +12,7 @@ O Scrum é um **framework** que ajuda as equipes a trabalharem juntas. Semelhant
 
 
 
-![img](https://lh4.googleusercontent.com/QX5Lb7Uzqoes4XIxdQNYTYbdP0n351UIvz31YIwNa-R75tj_Mimg9wqzEwTWXwfZZjXgr5_zjAEu6VOz1yiEbPeKHeQaOgqoxB039gCvq89xI1HpYFANJUe91wIIs08sT6YnZBAH6aN3--I)
+<img  center src = https://lh4.googleusercontent.com/QX5Lb7Uzqoes4XIxdQNYTYbdP0n351UIvz31YIwNa-R75tj_Mimg9wqzEwTWXwfZZjXgr5_zjAEu6VOz1yiEbPeKHeQaOgqoxB039gCvq89xI1HpYFANJUe91wIIs08sT6YnZBAH6aN3--I>
 
 Muitos profissionais se referem ao Scrum como uma **metodologia Ágil**, e não estão errados. A metodologia Ágil são “métodos e práticas baseadas nos valores e princípios expressos no Manifesto Ágil e o **Scrum é um framework** (ou uma ferramenta) que é usada para implementar o desenvolvimento Ágil.
 
